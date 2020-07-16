@@ -1,5 +1,6 @@
 # CourseCreator - The Digital Classroom for Everyone
-CourseCreator is a web app that helps educators quickly turn their old pdfs/lessons into a digital sharable course, monitor student progress and also communicate with the students within the platform.
+CourseCreator is a web app that helps educators quickly turn their old pdfs/lessons into a digital sharable course.
+It allows teachers to deliver interactive classes to students, track their progress and also communicate with them within the platform.
 
 #### At this stage, the resources are lesson module and quiz module.
 - Quiz module has a quiz builder for quiz, questions and answers.
