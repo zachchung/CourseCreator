@@ -7,3 +7,23 @@ It allows teachers to deliver interactive classes to students, track their progr
 - Lesson module contains text, multimedia (e.g., image and videos) and reference link to external resources.
 
 To create content on the website, we use a Trix text editor that is natively integrated into ActionText module of Ruby on Rails version 6.
+
+## Setup & Deployment
+### Setup
+Clone the project, and run on local machine
+```bash
+bundle install
+yarn install
+```
+
+Once the project is made available on your local machine, create the database in PostgreSQL and populate structure and data.
+```bash
+rails db:create
+rails db:migrate
+```
+
+### Deployment
+Start the application with:
+```bash
+rails s
+```
