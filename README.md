@@ -4,8 +4,8 @@ It allows teachers to deliver interactive classes to students, track their progr
 www.coursecreator.site/
 
 ### Demo Accounts
-- educator view: harshil@study.com / abc123
-- student view: lisa@study.com / abc123
+- Educator's view: harshil@study.com / abc123
+- Student's view: lisa@study.com / abc123
 
 #### At this stage, the resources are lesson module and quiz module.
 - Quiz module has a quiz builder for quiz, questions and answers.
